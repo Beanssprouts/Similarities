@@ -1,0 +1,45 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\fswiss\fcharset0 Helvetica-Oblique;
+\f3\fswiss\fcharset0 Helvetica-BoldOblique;}
+{\colortbl;\red255\green255\blue255;\red27\green27\blue27;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c14118\c14118\c14118;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs40 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
+There\'92s a very important piece of real-estate devoted to something called \'93Trending\'94 both on YouTube\'92s mobile and desktop experiences. It takes you to a land of viral videos, Jimmy Kimmel clips, top 40 music, and movie trailers. And yes, also some videos from a smattering of medium and large native YouTubers. 
+\f1\b \AppleTypeServices\AppleTypeServicesF65539 The trending tab is extremely important, but not for the reasons you think.\
+\
+
+\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 Let\'92s be honest with ourselves, YouTubers click on the trending tab for one single reason\'85to analyze what is on the trending tab and then complain that it isn\'92t what we think it should be.
+\f2\i \AppleTypeServices\AppleTypeServicesF65539  \'93
+\f0\i0 \AppleTypeServices\AppleTypeServicesF65539 It isn\'92t showing the most popular content on the platform,\'94 we say. \'93It\'92s hiding the biggest content on the site!\'94\cb1 \
+\cb3 OK, let\'92s take our outraged creator hats off for a second and just think about this like creators.\cb1 \
+\cb3 One thing we know better than anyone: Whenever you make anything, you have to understand your audience. But when we criticize the trending tab, we are misunderstanding its audience. 
+\f2\i \AppleTypeServices\AppleTypeServicesF65539 It is not for us.
+\f0\i0 \AppleTypeServices\AppleTypeServicesF65539 \cb1 \
+\cb3 The complexity and nuance of YouTube\'92s culture, creators, drama, genres, styles, and memes is what makes it wonderful for people on the inside, 
+\f1\b \AppleTypeServices\AppleTypeServicesF65539 but it is also a wall that keeps people on the outside.
+\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 \cb1 \
+\cb3 Some people want to build that wall higher. They don\'92t want the platform to grow and change by adding new folks who are less aware of the culture. But, unless we all want to divide up the existing pie into smaller and smaller pieces (and also prevent new creators from getting and serving new audiences) creators should not be those people.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f3\i\b \AppleTypeServices \cf2 \cb3 Who is Trending For, Then?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0\b0 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 Trending is for people who either do not yet have a deep relationship with YouTube and its culture, or who are simply less comfortable with a deep relationship with YouTube as a platform and a community. Those people feel more connected to a broader cultural experience, and that is the experience that Trending serves.\cb1 \
+\cb3 Every bit of the YouTube platform is about a personalized, YouTube-specific perspective 
+\f2\i \AppleTypeServices\AppleTypeServicesF65539 except trending. 
+\f0\i0 \AppleTypeServices\AppleTypeServicesF65539 It is the one place on the site that is about what\'92s happening outside of the culture of the platform. And so, yeah, it\'92s full of movie trailers and talk show Jimmys and Ariana Grande.\cb1 \
+\cb3 For people not as connected to different forms of creation, it is an entrance point\'85the place where YouTube can show that it isn\'92t just an insular culture that is only welcoming to people who have spent half a decade establishing their favs. But, of course, YouTube also includes some medium and large creators in trending to establish the reality (and it is a reality, it just isn\'92t known by everyone yet) that YouTubers are just as mainstream as Jimmys.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f3\i\b \AppleTypeServices \cf2 \cb3 Trending Matters, But Not for the Reason You Think\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0\b0 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 Getting on trending matters, it drives traffic, but not as much as you think. I\'92ve been on every part of the trending page, and unless you\'92re in the top three, it doesn\'92t drive significant traffic compared with homepage or sidebar placement. It is far more useful as a door into the culture and connection of YouTube. To us, who have been using the platform for, in many cases, more than a decade, it\'92s a little shocking that anyone would need this lower barrier, but they do. Those people are out there, and if YouTube doesn\'92t make a place that is at least a little comfortable for them, they won\'92t use the platform.\cb1 \
+\cb3 Hosting and surfacing legacy media content isn\'92t all about YouTube trying to abandon its core, it\'92s about inviting a broader variety of viewers to the platform.\cb1 \
+\cb3 There are reasons to be frustrated with YouTube. Their algorithms still suck at figuring out what content is safe for advertisers. They\'92ve consolidated an unsustainable amount of power in one place. Their relationship with Google constantly forces to use the cultural clout of YouTube to try and force new, sub-par products (YouTube Music, Google+, half-baked original programming, etc) down our throats.\cb1 \
+\cb3 But the Trending Tab is good. It works for us. It works for YouTube. It is a genius strategy to convert mainstream media viewers into YouTube viewers and complaining about it weakens our complaints about the many legitimate problems the platform has. \cb1 \
+}
