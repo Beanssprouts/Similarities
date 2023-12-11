@@ -4,6 +4,7 @@ The file you will run is called "**FinalProject.py**"This code checks the simila
 The sources that are currently available in this file are the works of two related authors, John and Hank Green. These two are brothers and known to have somewhat similar styles of writing. The two sources come from an Article that Hank Green had written for the Newspaper Medium called “Can We Stop Complaining About the Trending Tab” and the book An Abundance of Katherines Written by John Green. The texts that I have chosen to compare to these sources are two passages from two different books written by John Green: Looking for Alaska and Paper Towns, and two passages from two different books written by Hank Green: A Beautifully Foolish Endeavor and An Absolutely Remarkable Thing. I have also added an additional text: This is Not Tom which was a short novella written and displayed behind internet puzzles in the early 2000's. 
 
 The result of my comparisons are as follows:
+
 **A Beautifully Foolish Endeavor**
 scores for John: [-5693.493485851519, -2069.744658260651, -5648.232364662905, -216.87049809266037, -50]
 scores for Hank: [-5669.036830607307, -2117.508517996481, -5551.595745414856, -208.9948267202615, -50]
